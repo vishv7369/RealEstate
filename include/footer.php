@@ -7,7 +7,7 @@
                                 <div class="col-md-12 col-lg-4">
                                     <div class="footer-widget mb-4">
                                         <div class="footer-logo mb-4"> <a href="#"><img class="logo-bottom" src="images/logo/restatelg_white.png" alt="image"></a> </div>
-                                        <p class="pb-20 text-white">Risus commodo congue augue phasellus morbi hymenaeos ante tincidunt eu orci dictum bibendum lacus platea primis mi lacinia felis gravida natoque bibendum cubilia montes tristique et arcu blandit risus. Lobortis dignissim nam.</p>
+                                        <p class="pb-20 text-white">Risus commodo congue augue phasellus Ahmedabad hymenaeos ante tincidunt eu orci dictum bibendum lacus platea primis mi lacinia felis gravida natoque bibendum cubilia montes tristique et arcu blandit risus. Lobortis dignissim nam.</p>
 										
                                         </div>
                                 </div>
@@ -39,9 +39,9 @@
                                             <div class="footer-widget">
                                                 <h4 class="widget-title text-white double-down-line-left position-relative">Contact Us</h4>
                                                 <ul class="text-white">
-                                                    <li class="hover-text-primary"><i class="fas fa-map-marker-alt text-white mr-2 font-13 mt-1"></i>morbi</li>
-                                                    <li class="hover-text-primary"> <i class="fas fa-phone-alt text-white mr-2 font-13 mt-1"></i>+91 987-765-8547</li>
-													<li class="hover-text-primary"> <i class="fas fa-phone-alt text-white mr-2 font-13 mt-1"></i>+91 987-765-8547</li>
+                                                    <li class="hover-text-primary"><i class="fas fa-map-marker-alt text-white mr-2 font-13 mt-1"></i>Ahmedabad</li>
+                                                    <li class="hover-text-primary"> <i class="fas fa-phone-alt text-white mr-2 font-13 mt-1"></i>+91 82648 30498</li>
+													<li class="hover-text-primary"> <i class="fas fa-phone-alt text-white mr-2 font-13 mt-1"></i>+91 82648 30498</li>
                                                     <li class="hover-text-primary"><i class="fas fa-envelope text-white mr-2 font-13 mt-1"></i>helpline@realestatest.com</li>
                                                 </ul>
                                             </div>

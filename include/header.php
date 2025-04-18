@@ -10,7 +10,7 @@ if (session_status() === PHP_SESSION_NONE) {
                     <div class="row">
                         <div class="col-md-8">
                             <ul class="top-contact list-text-white  d-table">
-                                <li><a href="#"><i class="fas fa-phone-alt text-success mr-1"></i>+91 987-765-8547</a></li>
+                                <li><a href="#"><i class="fas fa-phone-alt text-success mr-1"></i>+91 82648 30498</a></li>
                                 <li><a href="#"><i class="fas fa-envelope text-success mr-1"></i>realestate.com</a></li>
                             </ul>
                         </div>
